@@ -8,8 +8,6 @@ I share ideas, tools, concepts, and inspirations — anything I find worth think
 
 I build things and help bring people together around ideas.
 
-> Through connection, we make things happen.
-
 ## Communities I help build
 
 **[CloK ↗](https://www.clok.tech/)** · [GitHub](https://github.com/CloK-Lab)<br>
