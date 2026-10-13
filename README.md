@@ -1,35 +1,40 @@
-# Xinze Li · Moqian
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio-header-dark.svg">
+  <img src="assets/studio-header.svg" width="100%" alt="墨谦 · Moqian — a personal studio for mathematics and open source">
+</picture>
 
-`mathematics` · `formal verification` · `open-source communities`
+<p>
+  <a href="https://lixinze.xyz/">Website ↗</a>&nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lixinze/">LinkedIn ↗</a>&nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://x.com/xinzelimoqian">X ↗</a>&nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://leanprover.zulipchat.com/#user/982434">Lean Zulip ↗</a>
+</p>
 
-[Website](https://lixinze.xyz/) · [LinkedIn](https://www.linkedin.com/in/lixinze/) · [X](https://x.com/xinzelimoqian) · [Lean Zulip](https://leanprover.zulipchat.com/#user/982434)
+I'm Xinze Li, also known as **Moqian / 墨谦**. This is my personal workspace for mathematical ideas, software experiments, and the people I build with.
 
-I'm a mathematics PhD student at the University of Toronto. My interests span geometry, formal mathematics, and the mathematical foundations of AI.
+I care about how knowledge becomes checkable, and how people and intelligent systems can work together. I explore these questions through mathematics, formal verification, and open source.
 
-I build open-source tools and help build the communities around them: connecting people and projects, sharing research and learning resources, and making it easier for others to contribute.
+<br>
 
-## Communities I help build
+## Building communities
 
-| Community | What brings us together |
-| :--- | :--- |
-| **[CloK](https://github.com/CloK-Lab)** · [Website](https://www.clok.tech/) | Connecting theoretical research and practical problems through mathematics, formal verification, AI safety, and open science. |
-| **[Varifold](https://github.com/Varifold-Lab)** · [Website](https://varifold-lab.github.io/) | Learning and research in mathematical foundations, formal verification, AI safety, and multi-agent coordination. |
+I help build **CloK** and **Varifold**. That means connecting collaborators, working through ideas together, and building the tools and shared resources that let others join in.
 
-My work includes code, documentation, learning resources, and the contribution processes that help a community work together.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CloK-Lab">CloK ↗</a></h3>
+      <p>A meeting place for theoretical research and practical problems. We work on formal mathematics, AI safety, and the ways research gets shared and supported.</p>
+      <p><a href="https://www.clok.tech/">Explore CloK</a> · <a href="https://github.com/CloK-Lab">GitHub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Varifold-Lab">Varifold ↗</a></h3>
+      <p>A community for studying the mathematical foundations of intelligent systems, with an emphasis on formal verification, AI safety, and multi-agent coordination.</p>
+      <p><a href="https://varifold-lab.github.io/">Explore Varifold</a> · <a href="https://github.com/Varifold-Lab">GitHub</a></p>
+    </td>
+  </tr>
+</table>
 
-## Selected work
+<br>
 
-| Project | My involvement |
-| :--- | :--- |
-| **[awesome-ai4math](https://github.com/Xinze-Li-Moqian/awesome-ai4math)** | Curating resources, tools, and communities across the AI for mathematics ecosystem. |
-| **[Astrolabe](https://github.com/Xinze-Li-Moqian/Astrolabe)** | Co-developed a 3D dependency graph visualizer for Lean projects. This repository preserves the early prototype. |
-| **[OpenGA](https://github.com/CloK-Lab/OpenGA)** | Contributing to geometric analysis and geometric measure theory in Lean, along with documentation and contribution workflows. |
-| **[LeanMFG](https://github.com/Varifold-Lab/LeanMFG)** | Developing formal models and algorithms for mean field games in Lean, and contributing documentation and release tooling. |
-| **[ν-DSI](https://github.com/Varifold-Lab/vdsi)** | Exploring verified decentralized coordination through a Lean prototype, executable models, and proofs. |
-
-## Contributions beyond these communities
-
-- **[Ramanujan–Nagell formalization](https://github.com/BarinderBanwait/ramanujan_nagell/pull/1)** — corrected a lemma's assumptions and contributed its Lean proof.
-- **[loopy-prover](https://github.com/maorbenshahar/loopy-prover/pull/1)** — contributed a fix to prompt loading.
-
-I'm interested in working with people building tools for formal mathematics, studying AI safety, or helping open research communities grow. You can reach me on [LinkedIn](https://www.linkedin.com/in/lixinze/) or [X](https://x.com/xinzelimoqian).
+Have a question to work through, a tool to build, or a community to bring together? Find me on [LinkedIn](https://www.linkedin.com/in/lixinze/) or [X](https://x.com/xinzelimoqian).
