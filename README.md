@@ -10,7 +10,7 @@ I'm **墨謙 · Moqian (Xinze Li)**, a PhD student at the University of Toronto.
 - **I learn by building.**
 - **I help build and grow communities.**
 
-Want to work together? Reach me on [Slack](https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug), [X](https://x.com/xinzelimoqian), [LinkedIn](https://www.linkedin.com/in/lixinze/), or by email. **Slack is my personal studio**, where I share updates across my work.
+Want to work together? Reach me on [Slack](https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug), [X](https://x.com/xinzelimoqian), [LinkedIn](https://www.linkedin.com/in/lixinze/), or by email. Please note that **Slack is my personal studio**, where I share updates across my work.
 
 ---
 
