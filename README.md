@@ -5,9 +5,13 @@
 **English** · [简体中文](https://github.com/Xinze-Li-Moqian/Xinze-Li-Moqian/blob/main/README.zh-CN.md)<br>
 [Website ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian) · [Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434)
 
-I'm **Xinze Li**, also known as **Moqian**. I share ideas, tools, concepts, and inspirations — anything I find worth thinking about.
+I'm **Xinze Li (墨謙 · Moqian)**, a PhD student at the **University of Toronto**. My research interests include geometric analysis, minimal surfaces, AI safety, and formal verification. Lean 4 is the language I use most, and I'm exploring how to build verifiable systems.
 
-I build things, and I think of myself as a **community grower**. I help new open-source communities get started and grow: bringing people together, sharing useful work, and making it easier to take part.
+**Learning while building** is how I work. I need to put theory into practice to understand it. I share what I'm building here from the beginning: **open source since day one**. I share unfinished work and unanswered questions, and try to stay honest with myself about what I do and don't understand.
+
+I also see myself as a **community grower**. I help people from different backgrounds build new communities, and I care about helping students develop work of their own that they can keep learning from and building on.
+
+I enjoy talking with futurists, founders, and investors about emerging science and technology industries, finance, and fintech. These conversations help me understand what people are building and the practical problems they face.
 
 ---
 
