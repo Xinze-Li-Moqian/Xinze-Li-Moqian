@@ -3,14 +3,14 @@
 # 墨謙 · Moqian
 
 [English](https://github.com/Xinze-Li-Moqian/Xinze-Li-Moqian/blob/main/README.md) · **简体中文**<br>
-[个人网站 ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
+[个人网站 ↗](https://lixinze.xyz/) · <a href="https://www.linkedin.com/in/lixinze/"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/linkedin.png" width="19" height="16" align="absmiddle" alt="" />&nbsp;LinkedIn ↗</a> · <a href="https://x.com/xinzelimoqian"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/x.png" width="16" height="16" align="absmiddle" alt="" />&nbsp;X ↗</a>
 
 我是**墨謙 · Moqian（Xinze Li）**，多伦多大学博士生。
 
 - **边做边学：我在动手构建的过程中学习。**
 - **帮助社区建立与成长，让大家一起做事。**
 
-想一起合作，欢迎通过 [Slack](https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug)、[X](https://x.com/xinzelimoqian)、[LinkedIn](https://www.linkedin.com/in/lixinze/) 或邮箱联系我。**Slack 是我的个人 studio**，我会在里面更新不同方向的工作。
+想一起合作，欢迎通过 <a href="https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/slack.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Slack</a>、<a href="https://x.com/xinzelimoqian"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/x.png" width="16" height="16" align="absmiddle" alt="" />&nbsp;X</a>、<a href="https://www.linkedin.com/in/lixinze/"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/linkedin.png" width="19" height="16" align="absmiddle" alt="" />&nbsp;LinkedIn</a> 或邮箱联系我。**Slack 是我的个人 studio**，我会在里面更新不同方向的工作。
 
 ---
 
@@ -62,4 +62,4 @@
 
 欢迎带着一个项目、一个问题，或一个社区的想法来聊。我尤其关心怎么让第一次参与变得容易：一份更清楚的解释、一个好用的工具，或一个能让大家一起动手的问题。
 
-[加入我的 Slack studio ↗](https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
+<a href="https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/slack.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;加入我的 Slack studio ↗</a> · <a href="https://www.linkedin.com/in/lixinze/"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/linkedin.png" width="19" height="16" align="absmiddle" alt="" />&nbsp;LinkedIn ↗</a> · <a href="https://x.com/xinzelimoqian"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/x.png" width="16" height="16" align="absmiddle" alt="" />&nbsp;X ↗</a>

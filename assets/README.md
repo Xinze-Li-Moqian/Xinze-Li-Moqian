@@ -8,9 +8,18 @@ The profile draws on the visual language of [CloK](https://www.clok.tech/): a ne
 - Palette: navy `#090E16`, pale blue `#E3F2FC`, restrained gold and cyan accents.
 - Method: generated with the built-in imagegen tool. The artwork is original; CloK's site illustration was not copied into this asset.
 - The README body uses native headings, text, and links so it remains searchable, selectable, and compatible with GitHub's light and dark themes.
-- Communities appear in a compact two-column table: a 20 px logo and linked name on the left, topic keywords on the right. Names link to each community's website. Logo images use current public GitHub organization avatars so avatar changes carry through. The Astrolabe preview is the actual screenshot published in the early prototype's repository, linked at its source.
+- Communities appear in a compact two-column table: a 20 px logo and linked name on the left, topic keywords on the right. Names link to each community's website. Logo images use current public GitHub organization avatars so avatar changes carry through.
+- Contact links pair 16 px platform marks with visible text. The original assets are stored in `social/`, keep their aspect ratios, and use empty alt text because the adjacent link text supplies the accessible name.
 - The closing contribution calendar is a data visualization in the same navy, ice-blue, and gold palette. Its values come from GitHub's public calendar, not generated artwork. See [the data and update notes](../docs/contributions.md).
 - Earlier banners: [`moqian-qian-hero.png`](moqian-qian-hero.png), [`moqian-clok-hero.png`](moqian-clok-hero.png), and [`grow.svg`](grow.svg), retained as earlier designs.
+
+## Contact logo sources
+
+These platform marks are used to identify links to the corresponding accounts, and remain the trademarks of their respective owners.
+
+- [`social/slack.svg`](social/slack.svg): [official Slack mark](https://a.slack-edge.com/9cc0056/marketing/img/nav/logo.svg), served on [Slack's media-kit page](https://slack.com/media-kit).
+- [`social/linkedin.png`](social/linkedin.png): unmodified `LI-In-Bug.png` from the [official in-logo package](https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/logos/in-logo.zip), linked from [LinkedIn's downloads](https://brand.linkedin.com/downloads). See the [profile-link usage guidance](https://brand.linkedin.com/in-logo).
+- [`social/x.png`](social/x.png): the [official X favicon](https://x.com/favicon.ico), linked from [X](https://x.com). The source contains PNG bytes; its black background keeps the white mark visible in both GitHub themes.
 
 ## Name and hexagram
 

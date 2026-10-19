@@ -3,14 +3,14 @@
 # 墨謙 · Moqian
 
 **English** · [简体中文](https://github.com/Xinze-Li-Moqian/Xinze-Li-Moqian/blob/main/README.zh-CN.md)<br>
-[Website ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
+[Website ↗](https://lixinze.xyz/) · <a href="https://www.linkedin.com/in/lixinze/"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/linkedin.png" width="19" height="16" align="absmiddle" alt="" />&nbsp;LinkedIn ↗</a> · <a href="https://x.com/xinzelimoqian"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/x.png" width="16" height="16" align="absmiddle" alt="" />&nbsp;X ↗</a>
 
 I'm **墨謙 · Moqian (Xinze Li)**, a PhD student at the University of Toronto.
 
 - **I learn by building.**
 - **I help build and grow communities.**
 
-Want to work together? Reach me on [Slack](https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug), [X](https://x.com/xinzelimoqian), [LinkedIn](https://www.linkedin.com/in/lixinze/), or by email. Please note that **Slack is my personal studio**, where I share updates across my work.
+Want to work together? Reach me on <a href="https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/slack.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Slack</a>, <a href="https://x.com/xinzelimoqian"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/x.png" width="16" height="16" align="absmiddle" alt="" />&nbsp;X</a>, <a href="https://www.linkedin.com/in/lixinze/"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/linkedin.png" width="19" height="16" align="absmiddle" alt="" />&nbsp;LinkedIn</a>, or by email. Please note that **Slack is my personal studio**, where I share updates across my work.
 
 ---
 
@@ -62,4 +62,4 @@ What are you building, and where could another pair of hands help?
 
 Send me a project, a question, or an idea for a community. I'm especially interested in making a first contribution easier: a clearer explanation, a useful tool, or a problem people can work on together.
 
-[Join my Slack studio ↗](https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
+<a href="https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/slack.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Join my Slack studio ↗</a> · <a href="https://www.linkedin.com/in/lixinze/"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/linkedin.png" width="19" height="16" align="absmiddle" alt="" />&nbsp;LinkedIn ↗</a> · <a href="https://x.com/xinzelimoqian"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/social/x.png" width="16" height="16" align="absmiddle" alt="" />&nbsp;X ↗</a>
