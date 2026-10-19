@@ -9,7 +9,7 @@ The profile draws on the visual language of [CloK](https://www.clok.tech/): a ne
 - Method: generated with the built-in imagegen tool. The artwork is original; CloK's site illustration was not copied into this asset.
 - The README body uses native headings, text, and links so it remains searchable, selectable, and compatible with GitHub's light and dark themes.
 - Communities appear in a compact two-column table: a 20 px logo and linked name on the left, topic keywords on the right. Names link to each community's website. Logo images use current public GitHub organization avatars so avatar changes carry through.
-- Contact links pair 16 px platform marks with visible text. The original assets are stored in `social/`, keep their aspect ratios, and use empty alt text because the adjacent link text supplies the accessible name.
+- The name links to the personal website. Below it and in the footer, contact links form a row of 28 px platform marks with generous spacing. Each icon-only link has platform-name alt text and a title. Inline contact links use plain text. The original assets are stored in `social/` and keep their aspect ratios.
 - The closing contribution calendar is a data visualization in the same navy, ice-blue, and gold palette. Its values come from GitHub's public calendar, not generated artwork. See [the data and update notes](../docs/contributions.md).
 - Earlier banners: [`moqian-qian-hero.png`](moqian-qian-hero.png), [`moqian-clok-hero.png`](moqian-clok-hero.png), and [`grow.svg`](grow.svg), retained as earlier designs.
 
