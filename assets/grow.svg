@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Moqian — Build things. Help communities grow.</title>
+  <desc id="desc">A branching diagram connects ideas, projects, and people.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="260" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="#F4F2EB"/>
+    <g font-family="Inter, Arial, Helvetica, sans-serif" fill="#263B35">
+      <text x="48" y="48" font-size="13" font-weight="600" letter-spacing="3">RESEARCH / OPEN SOURCE / COMMUNITY</text>
+      <text x="44" y="142" font-size="82" font-weight="600" letter-spacing="-3">Moqian<tspan fill="#73936F">.</tspan></text>
+      <text x="48" y="195" font-size="26">Build things. Help communities grow.</text>
+    </g>
+    <g fill="none" stroke="#73936F" stroke-width="2">
+      <path d="M806 193C806 134 901 183 901 119S1008 132 1008 65"/>
+      <path d="M901 119C901 154 1080 124 1080 179"/>
+      <path d="M901 119C901 89 820 105 820 69"/>
+      <path d="M1080 179C1080 151 1140 161 1140 129" stroke-opacity=".45"/>
+    </g>
+    <g fill="#F4F2EB" stroke="#73936F" stroke-width="2">
+      <circle cx="806" cy="193" r="6"/>
+      <circle cx="901" cy="119" r="8" fill="#73936F"/>
+      <circle cx="820" cy="69" r="5"/>
+      <circle cx="1008" cy="65" r="7"/>
+      <circle cx="1080" cy="179" r="7"/>
+      <circle cx="1140" cy="129" r="4" stroke-opacity=".45"/>
+    </g>
+    <g font-family="Inter, Arial, Helvetica, sans-serif" font-size="14" fill="#53645B">
+      <text x="806" y="222" text-anchor="middle">ideas</text>
+      <text x="1008" y="43" text-anchor="middle">projects</text>
+      <text x="1080" y="210" text-anchor="middle">people</text>
+    </g>
+    <path d="M48 236H1152" stroke="#263B35" stroke-opacity=".15"/>
+    <path d="M48 236H144" stroke="#73936F" stroke-width="3"/>
+  </g>
+</svg>

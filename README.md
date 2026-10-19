@@ -1,17 +1,40 @@
+<img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/grow.svg" width="100%" alt="Moqian — Build things. Help communities grow." />
+
 # 墨謙 · Moqian
 
-Xinze Li
+**English** · [简体中文](https://github.com/Xinze-Li-Moqian/Xinze-Li-Moqian/blob/main/README.zh-CN.md)<br>
+[Website ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian) · [Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434)
 
-[Website ↗](https://lixinze.xyz/) &nbsp; / &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) &nbsp; / &nbsp; [X ↗](https://x.com/xinzelimoqian) &nbsp; / &nbsp; [Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434)
+I'm **Xinze Li**, also known as **Moqian**. I share ideas, tools, concepts, and inspirations — anything I find worth thinking about.
 
-I share ideas, tools, concepts, and inspirations — anything I find worth thinking about.
+I build things, and I think of myself as a **community grower**. I help new open-source communities get started and grow: bringing people together, sharing useful work, and making it easier to take part.
 
-I build things and help bring people together around ideas.
+## What I'm exploring
 
-## Communities I help build
+- **Mathematics & AI** — tools that help us discover, understand, and work with mathematics.
+- **Formal verification** — Lean, checkable proofs, and algorithms we can rely on in practice.
+- **Algorithms, optimization & AI safety** — questions grounded in real problems.
 
-**[CloK ↗](https://www.clok.tech/)** · [GitHub](https://github.com/CloK-Lab)<br>
-Exploring how knowledge connects and grows, through shared research and open-source tools.
+## Communities I help grow
 
-**[Varifold ↗](https://varifold-lab.github.io/)** · [GitHub](https://github.com/Varifold-Lab)<br>
-An open learning and research community exploring foundations, verification, and intelligent systems.
+| Community | What brings us together |
+| :--- | :--- |
+| **[CloK](https://github.com/CloK-Lab)** · [Website ↗](https://www.clok.tech/) | Making the structure of mathematical knowledge visible and easier to explore. |
+| **[Varifold](https://github.com/Varifold-Lab)** · [Website ↗](https://varifold-lab.github.io/) | Open learning and research around AI safety and decentralized intelligence. |
+| **[Indeed Intelligence · 确实智能](https://github.com/indeed-lab)** · [Website ↗](https://indeed-lab.github.io/) | Algorithms, optimization, and AI safety, starting from practical problems. |
+| **[Slow Research · 慢科研](https://github.com/Slow-Research)** · [Website ↗](https://slow-research.github.io/) | A community for sharing research tools, unfinished ideas, and a sense of humor. Make Slow Research Faster! |
+
+## Selected work
+
+| Project | What it explores |
+| :--- | :--- |
+| **[awesome-ai4math](https://github.com/Xinze-Li-Moqian/awesome-ai4math)** | A curated view of the AI for mathematics ecosystem: tools, resources, and communities. |
+| **[Astrolabe](https://github.com/Xinze-Li-Moqian/Astrolabe)** | A 3D dependency graph visualizer for Lean projects; this repository preserves the early prototype. |
+| **[OpenGA](https://github.com/CloK-Lab/OpenGA)** | Geometric analysis and geometric measure theory in Lean. |
+| **[LeanMFG](https://github.com/Varifold-Lab/LeanMFG)** | Formal models and algorithms for mean field games in Lean. |
+| **[ν-DSI](https://github.com/Varifold-Lab/vdsi)** | Formal models and executable prototypes for participant coordination and decentralized systems in Lean. |
+| **[indeed-bot](https://github.com/indeed-lab/indeed-bot)** | A multilingual agreement bot with a Lean-verified reply selector. [Try it ↗](https://indeed-lab.github.io/#indeed-bot) |
+
+## Let's grow something
+
+Working on an interesting problem, a new open-source project, or a community finding its feet? I'd love to hear about it. Find me on [LinkedIn](https://www.linkedin.com/in/lixinze/) or [X](https://x.com/xinzelimoqian).
