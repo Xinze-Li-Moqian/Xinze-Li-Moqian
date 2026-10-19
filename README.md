@@ -18,7 +18,7 @@ Want to work together? Reach me on Slack, [X](https://x.com/xinzelimoqian), [Lin
 
 ## Explore.
 
-- **Pure mathematics** — minimal surfaces and geometric analysis.
+- **Pure mathematics** — As a mathematics PhD student at the University of Toronto, I focus on minimal surfaces and geometric analysis.
 - **Formal verification & Lean 4** — Lean 4 is the language I use most. I'm trying to build and express everything I can in it.
 
 ---
