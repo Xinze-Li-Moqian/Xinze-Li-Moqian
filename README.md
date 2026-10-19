@@ -25,17 +25,42 @@ I build things, and I think of myself as a **community grower**. I help new open
 
 ## Help communities grow.
 
-**[CloK](https://github.com/CloK-Lab)** · [Website ↗](https://www.clok.tech/)<br>
-Making the structure of mathematical knowledge visible and easier to explore.
+I care about the early work of a community: finding people to work with, sharing what we learn, and giving someone new a place to begin. Here are some of the places I help build.
 
-**[Varifold](https://github.com/Varifold-Lab)** · [Website ↗](https://varifold-lab.github.io/)<br>
-Open learning and research around AI safety and decentralized intelligence.
-
-**[Indeed Intelligence · 确实智能](https://github.com/indeed-lab)** · [Website ↗](https://indeed-lab.github.io/)<br>
-Algorithms, optimization, and AI safety, starting from practical problems.
-
-**[Slow Research · 慢科研](https://github.com/Slow-Research)** · [Website ↗](https://slow-research.github.io/)<br>
-Sharing research tools, unfinished ideas, and a sense of humor. Make Slow Research Faster!
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/CloK-Lab"><img src="https://avatars.githubusercontent.com/u/259413392?s=64&amp;v=4" width="40" height="40" alt="CloK" /></a>
+<h3>CloK</h3>
+<p>Making the structure of mathematical knowledge visible and easier to explore.</p>
+<p>Start with <a href="https://www.clok.tech/astrolabe">Astrolabe</a>, or explore geometric analysis in <a href="https://github.com/CloK-Lab/OpenGA">OpenGA</a>.</p>
+<a href="https://www.clok.tech/">Website ↗</a> · <a href="https://github.com/CloK-Lab">GitHub ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Varifold-Lab"><img src="https://avatars.githubusercontent.com/u/331409699?s=64&amp;v=4" width="40" height="40" alt="Varifold" /></a>
+<h3>Varifold</h3>
+<p>Open learning and research around AI safety and decentralized intelligence.</p>
+<p>Explore mean field games in <a href="https://github.com/Varifold-Lab/LeanMFG">LeanMFG</a> and coordination models in <a href="https://github.com/Varifold-Lab/vdsi">ν-DSI</a>.</p>
+<a href="https://varifold-lab.github.io/">Website ↗</a> · <a href="https://github.com/Varifold-Lab">GitHub ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/indeed-lab"><img src="https://avatars.githubusercontent.com/u/340565723?s=64&amp;v=4" width="40" height="40" alt="Indeed Intelligence" /></a>
+<h3>Indeed Intelligence · 确实智能</h3>
+<p>Algorithms, optimization, and AI safety, starting from practical problems.</p>
+<p>Meet <a href="https://indeed-lab.github.io/#indeed-bot">indeed-bot</a>: a small experiment with a Lean-verified reply selector.</p>
+<a href="https://indeed-lab.github.io/">Website ↗</a> · <a href="https://github.com/indeed-lab">GitHub ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Slow-Research"><img src="https://avatars.githubusercontent.com/u/344167474?s=64&amp;v=4" width="40" height="40" alt="Slow Research" /></a>
+<h3>Slow Research · 慢科研</h3>
+<p>Sharing research tools, unfinished ideas, and a sense of humor.</p>
+<p>Read the <a href="https://github.com/Slow-Research/.github/blob/main/MANIFESTO.md">manifesto</a> and explore the projects. Make Slow Research Faster!</p>
+<a href="https://slow-research.github.io/">Website ↗</a> · <a href="https://github.com/Slow-Research">GitHub ↗</a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,15 +68,50 @@ Sharing research tools, unfinished ideas, and a sense of humor. Make Slow Resear
 
 ## Build & research.
 
-- **[awesome-ai4math](https://github.com/Xinze-Li-Moqian/awesome-ai4math)** — A curated view of the AI for mathematics ecosystem: tools, resources, and communities.
-- **[Astrolabe](https://github.com/Xinze-Li-Moqian/Astrolabe)** — A 3D dependency graph visualizer for Lean projects; this repository preserves the early prototype.
-- **[OpenGA](https://github.com/CloK-Lab/OpenGA)** — Geometric analysis and geometric measure theory in Lean.
-- **[LeanMFG](https://github.com/Varifold-Lab/LeanMFG)** — Formal models and algorithms for mean field games in Lean.
-- **[ν-DSI](https://github.com/Varifold-Lab/vdsi)** — Formal models and executable prototypes for participant coordination and decentralized systems in Lean.
-- **[indeed-bot](https://github.com/indeed-lab/indeed-bot)** — A multilingual agreement bot with a Lean-verified reply selector. [Try it ↗](https://indeed-lab.github.io/#indeed-bot)
+### Finding your way through mathematics
+
+**Astrolabe** turns a Lean project into an explorable 3D dependency graph. Follow a theorem's connections, browse namespaces, and see how a formalization fits together. I worked on the early prototype with [Alejandro Radisic](https://github.com/alerad).
+
+<a href="https://github.com/Xinze-Li-Moqian/Astrolabe"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Astrolabe/main/docs/images/screenshot-1.jpg" width="100%" alt="Astrolabe prototype: an interactive 3D graph of dependencies in a Lean project" /></a>
+
+[Early prototype ↗](https://github.com/Xinze-Li-Moqian/Astrolabe) · [Explore on CloK ↗](https://www.clok.tech/astrolabe)
+
+For a broader view, **[awesome-ai4math](https://github.com/Xinze-Li-Moqian/awesome-ai4math)** collects tools, research, learning resources, and communities around AI for mathematics. It's a place to find useful work and people to learn from.
+
+### Working from models to proofs
+
+I'm interested in what happens when a mathematical model becomes something we can inspect, run, and check. These projects explore different parts of that process.
+
+| Project | Question | Work to explore |
+| --- | --- | --- |
+| [OpenGA](https://github.com/CloK-Lab/OpenGA) | How can we express geometric analysis in Lean? | Foundations for geometric analysis and geometric measure theory. |
+| [LeanMFG](https://github.com/Varifold-Lab/LeanMFG) | How can we formalize systems with many interacting agents? | Mean field game models, theory, and algorithms in Lean. |
+| [ν-DSI](https://github.com/Varifold-Lab/vdsi) | How can participants coordinate in a decentralized system? | Lean formal models and executable coordination prototypes. |
+
+### Leaving room for an experiment
+
+**[indeed-bot](https://github.com/indeed-lab/indeed-bot)** detects your language, picks a short agreement, and agrees. Its reply selector is verified in Lean; the language detector and interface are separate from that proof.
+
+> **Zero Reasoning. Infinite Agreement.**
+
+[Try a conversation ↗](https://indeed-lab.github.io/#indeed-bot) · [Read the code and proofs ↗](https://github.com/indeed-lab/indeed-bot)
+
+---
+
+<sub>04 / ACTIVITY</sub>
+
+## Work, over time.
+
+<a href="https://github.com/Xinze-Li-Moqian?tab=overview"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/contributions.svg" width="100%" alt="A year of GitHub contributions, shown as an isometric calendar; block height represents daily activity" /></a>
+
+<sub>Generated from my public GitHub contribution calendar. [How this is made ↗](https://github.com/Xinze-Li-Moqian/Xinze-Li-Moqian/blob/main/docs/contributions.md)</sub>
 
 ---
 
 ## Let's grow something.
 
-Working on an interesting problem, a new open-source project, or a community finding its feet? I'd love to hear about it. Find me on [LinkedIn](https://www.linkedin.com/in/lixinze/) or [X](https://x.com/xinzelimoqian).
+What are you building, and where could another pair of hands help?
+
+Send me a project, a question, or an idea for a community. I'm especially interested in making a first contribution easier: a clearer explanation, a useful tool, or a problem people can work on together.
+
+[Talk on Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
