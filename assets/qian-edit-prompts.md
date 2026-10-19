@@ -1,0 +1,15 @@
+# Name and hexagram edit prompts
+
+Method: built-in imagegen; two sequential edits of the existing banner. Final asset: [moqian-qian-hero.png](moqian-qian-hero.png).
+
+## Identity edit
+
+```text
+Edit the supplied GitHub profile banner. Preserve the 3:1 aspect ratio, dark navy background, right-hand gold-and-blue knowledge tree illustration, all roots, the top small 'RESEARCH / OPEN SOURCE / COMMUNITY' text, and the lower two lines 'Build things.' and 'Help communities grow.' and the thin rule. Make ONLY these identity changes in the left-hand title area: replace the large all-caps 'MOQIAN' with the exact single-line bilingual name '墨謙 · Moqian'. Use traditional Chinese 謙, NOT simplified 谦. The title must be exactly 墨謙, a centered middle dot, then title-case Moqian, with only M capitalized. Use refined crisp pale ice-blue typography, Traditional Chinese glyphs harmonious with the Latin geometric sans-serif. Adjust title size to fit on ONE line comfortably without overlapping the tree. Immediately beside the title on its LEFT, add a small gold six-line I Ching hexagram for Modesty, number 15, 謙 ䷎. It must consist of EXACTLY SIX equally spaced horizontal rows, visually compact and aligned with the title: top to bottom row 1 is two separated short bars (broken yin), row 2 two separated short bars, row 3 two separated short bars, row 4 ONE continuous full-width bar (solid yang), row 5 two separated short bars, row 6 two separated short bars. Thus the ONLY continuous line is the FOURTH from top, THIRD from bottom. Exactly five broken rows and one solid row, total six rows. Both halves of each broken row same length, same centered gap; all rows same total width; crisp rectangular gold bars. Draw no enclosing circle, no extra stroke, no labels or numbers near the hexagram. Maintain generous spacing between the symbol and the name and leave all other design details unchanged. This is a precise banner edit, not a new layout or a mockup.
+```
+
+## Six-line correction
+
+```text
+Image 1 is the EDIT TARGET: an existing finished banner. Image 2 is a REFERENCE DIAGRAM showing the EXACT CORRECT six-line hexagram. Make one tiny correction to image 1 ONLY: the golden symbol at the left of '墨謙 · Moqian' currently has only FIVE rows. ADD the missing SIXTH broken row at the bottom, below its existing bottom row, same thickness, width, spacing and gold material. The corrected emblem must have exactly SIX rows as image 2: top-to-bottom BROKEN, BROKEN, BROKEN, SOLID, BROKEN, BROKEN. Rows 1,2,3,5,6 each have two separated horizontal bars; row 4 is one full-width bar. There are eleven rectangular gold bar segments in total, arranged as six levels. Copy the six-row geometry of reference image 2, scaled to the small emblem; do not paste its background rectangle. Keep all existing typography, including exact Traditional Chinese '墨謙 · Moqian', every other word, the right tree, the palette, composition, canvas dimensions, and all other elements UNCHANGED. Do not move, rewrite, replace or stylize any text. This is just adding the missing bottom broken line to repair the hexagram, not redesigning the banner.
+```

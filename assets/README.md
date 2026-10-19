@@ -4,11 +4,21 @@
 
 The profile draws on the visual language of [CloK](https://www.clok.tech/): a nearly black navy ground, pale blue typography, fine gold botanical forms, and generous space between sections. The tree connects the profile's existing theme of growing open-source communities to this visual direction.
 
-- Current banner: [`moqian-clok-hero.png`](moqian-clok-hero.png), 2172 × 724 pixels.
+- Current banner: [`moqian-qian-hero.png`](moqian-qian-hero.png), 2172 × 724 pixels; title **墨謙 · Moqian**.
 - Palette: navy `#090E16`, pale blue `#E3F2FC`, restrained gold and cyan accents.
 - Method: generated with the built-in imagegen tool. The artwork is original; CloK's site illustration was not copied into this asset.
 - The README body uses native headings, text, and links so it remains searchable, selectable, and compatible with GitHub's light and dark themes.
-- Previous banner: [`grow.svg`](grow.svg), retained as an earlier design.
+- Earlier banners: [`moqian-clok-hero.png`](moqian-clok-hero.png) and [`grow.svg`](grow.svg), retained as earlier designs.
+
+## Name and hexagram
+
+The title uses traditional Chinese **墨謙**, a middle dot, and title-case **Moqian**. Its gold emblem is **謙**, hexagram 15 (䷎), with earth above mountain: 坤上艮下.
+
+The six rows are, from top to bottom: **broken, broken, broken, solid, broken, broken**. The only solid line is the fourth from the top, or third from the bottom. Checked against the six line names in [《周易·謙》](https://zh.wikisource.org/zh-hant/周易/謙): 初六、六二、九三、六四、六五、上六.
+
+The exact geometry used as the correction reference is preserved in [`qian-hexagram-reference.svg`](qian-hexagram-reference.svg). The final raster was visually checked for six rows and eleven gold bar segments.
+
+The built-in imagegen edit instructions are recorded in [qian-edit-prompts.md](qian-edit-prompts.md).
 
 ## Generation prompt
 
