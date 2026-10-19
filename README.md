@@ -76,7 +76,12 @@ I care about the early work of a community: finding people to work with, sharing
 
 **Astrolabe** turns a Lean project into an explorable 3D dependency graph. Follow a theorem's connections, browse namespaces, and see how a formalization fits together. I worked on the early prototype with [Alejandro Radisic](https://github.com/alerad).
 
-<a href="https://github.com/Xinze-Li-Moqian/Astrolabe"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Astrolabe/main/docs/images/screenshot-1.jpg" width="100%" alt="Astrolabe prototype: an interactive 3D graph of dependencies in a Lean project" /></a>
+<details>
+<summary>View the Astrolabe interface</summary>
+
+<a href="https://github.com/Xinze-Li-Moqian/Astrolabe"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Astrolabe/main/docs/images/screenshot-1.jpg" width="480" alt="Astrolabe prototype: an interactive 3D graph of dependencies in a Lean project" /></a>
+
+</details>
 
 [Early prototype ↗](https://github.com/Xinze-Li-Moqian/Astrolabe) · [Explore on CloK ↗](https://www.clok.tech/astrolabe)
 

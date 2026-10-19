@@ -76,7 +76,12 @@
 
 **Astrolabe** 把 Lean 项目变成可以探索的三维依赖图。沿着定理的联系前进，浏览命名空间，看看一份形式化工作是怎样组织起来的。我与 [Alejandro Radisic](https://github.com/alerad) 一起参与了早期原型的开发。
 
-<a href="https://github.com/Xinze-Li-Moqian/Astrolabe"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Astrolabe/main/docs/images/screenshot-1.jpg" width="100%" alt="Astrolabe 早期原型：用可交互的三维图展示 Lean 项目中的依赖关系" /></a>
+<details>
+<summary>查看 Astrolabe 界面预览</summary>
+
+<a href="https://github.com/Xinze-Li-Moqian/Astrolabe"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Astrolabe/main/docs/images/screenshot-1.jpg" width="480" alt="Astrolabe 早期原型：用可交互的三维图展示 Lean 项目中的依赖关系" /></a>
+
+</details>
 
 [早期原型 ↗](https://github.com/Xinze-Li-Moqian/Astrolabe) · [在 CloK 中探索 ↗](https://www.clok.tech/astrolabe)
 
