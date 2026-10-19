@@ -29,42 +29,11 @@
 
 ## 让社区成长。
 
-我关心社区刚起步时的那些事：找到愿意一起做事的人，分享已经学到的东西，也为新来的人留一个容易上手的入口。下面是我参与建设的几个地方。
+**[CloK](https://github.com/CloK-Lab)** — 让数学知识的结构与联系更容易被探索。[官网 ↗](https://www.clok.tech/)<br>
+**[Varifold](https://github.com/Varifold-Lab)** — 围绕 AI 安全与去中心化智能开展开放研究。[官网 ↗](https://varifold-lab.github.io/)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/CloK-Lab"><img src="https://avatars.githubusercontent.com/u/259413392?s=64&amp;v=4" width="40" height="40" alt="CloK" /></a>
-<h3>CloK</h3>
-<p>让数学知识的结构变得可见，让其中的联系更容易被探索。</p>
-<p>可以从 <a href="https://www.clok.tech/astrolabe">Astrolabe</a> 开始，也可以在 <a href="https://github.com/CloK-Lab/OpenGA">OpenGA</a> 中探索几何分析。</p>
-<a href="https://www.clok.tech/">官网 ↗</a> · <a href="https://github.com/CloK-Lab">GitHub ↗</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Varifold-Lab"><img src="https://avatars.githubusercontent.com/u/331409699?s=64&amp;v=4" width="40" height="40" alt="Varifold" /></a>
-<h3>Varifold</h3>
-<p>围绕 AI 安全与去中心化智能开展开放学习与研究。</p>
-<p>在 <a href="https://github.com/Varifold-Lab/LeanMFG">LeanMFG</a> 中研究平均场博弈，在 <a href="https://github.com/Varifold-Lab/vdsi">ν-DSI</a> 中探索协作模型。</p>
-<a href="https://varifold-lab.github.io/">官网 ↗</a> · <a href="https://github.com/Varifold-Lab">GitHub ↗</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/indeed-lab"><img src="https://avatars.githubusercontent.com/u/340565723?s=64&amp;v=4" width="40" height="40" alt="Indeed Intelligence" /></a>
-<h3>Indeed Intelligence · 确实智能</h3>
-<p>从实际问题出发，探索算法、优化与 AI 安全。</p>
-<p>可以先认识 <a href="https://indeed-lab.github.io/#indeed-bot">indeed-bot</a>：一个回复选择器经过 Lean 验证的小实验。</p>
-<a href="https://indeed-lab.github.io/">官网 ↗</a> · <a href="https://github.com/indeed-lab">GitHub ↗</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Slow-Research"><img src="https://avatars.githubusercontent.com/u/344167474?s=64&amp;v=4" width="40" height="40" alt="Slow Research" /></a>
-<h3>Slow Research · 慢科研</h3>
-<p>分享科研工具、尚未成熟的想法，也保留一点幽默。</p>
-<p>读读<a href="https://github.com/Slow-Research/.github/blob/main/MANIFESTO.zh-CN.md">社区宣言</a>，看看正在做的项目。Make Slow Research Faster!</p>
-<a href="https://slow-research.github.io/">官网 ↗</a> · <a href="https://github.com/Slow-Research">GitHub ↗</a>
-</td>
-</tr>
-</table>
+**[Indeed Intelligence · 确实智能](https://github.com/indeed-lab)** — 从实际问题出发，探索算法、优化与 AI 安全。[官网 ↗](https://indeed-lab.github.io/)<br>
+**[Slow Research · 慢科研](https://github.com/Slow-Research)** — 分享科研工具、未完成的想法，也保留一点幽默。[官网 ↗](https://slow-research.github.io/)
 
 ---
 

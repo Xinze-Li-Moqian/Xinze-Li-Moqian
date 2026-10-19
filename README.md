@@ -29,42 +29,11 @@ I enjoy talking with futurists, founders, and investors about emerging science a
 
 ## Help communities grow.
 
-I care about the early work of a community: finding people to work with, sharing what we learn, and giving someone new a place to begin. Here are some of the places I help build.
+**[CloK](https://github.com/CloK-Lab)** — Tools for exploring mathematical knowledge. [Website ↗](https://www.clok.tech/)<br>
+**[Varifold](https://github.com/Varifold-Lab)** — Open research in AI safety and decentralized intelligence. [Website ↗](https://varifold-lab.github.io/)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/CloK-Lab"><img src="https://avatars.githubusercontent.com/u/259413392?s=64&amp;v=4" width="40" height="40" alt="CloK" /></a>
-<h3>CloK</h3>
-<p>Making the structure of mathematical knowledge visible and easier to explore.</p>
-<p>Start with <a href="https://www.clok.tech/astrolabe">Astrolabe</a>, or explore geometric analysis in <a href="https://github.com/CloK-Lab/OpenGA">OpenGA</a>.</p>
-<a href="https://www.clok.tech/">Website ↗</a> · <a href="https://github.com/CloK-Lab">GitHub ↗</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Varifold-Lab"><img src="https://avatars.githubusercontent.com/u/331409699?s=64&amp;v=4" width="40" height="40" alt="Varifold" /></a>
-<h3>Varifold</h3>
-<p>Open learning and research around AI safety and decentralized intelligence.</p>
-<p>Explore mean field games in <a href="https://github.com/Varifold-Lab/LeanMFG">LeanMFG</a> and coordination models in <a href="https://github.com/Varifold-Lab/vdsi">ν-DSI</a>.</p>
-<a href="https://varifold-lab.github.io/">Website ↗</a> · <a href="https://github.com/Varifold-Lab">GitHub ↗</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/indeed-lab"><img src="https://avatars.githubusercontent.com/u/340565723?s=64&amp;v=4" width="40" height="40" alt="Indeed Intelligence" /></a>
-<h3>Indeed Intelligence · 确实智能</h3>
-<p>Algorithms, optimization, and AI safety, starting from practical problems.</p>
-<p>Meet <a href="https://indeed-lab.github.io/#indeed-bot">indeed-bot</a>: a small experiment with a Lean-verified reply selector.</p>
-<a href="https://indeed-lab.github.io/">Website ↗</a> · <a href="https://github.com/indeed-lab">GitHub ↗</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Slow-Research"><img src="https://avatars.githubusercontent.com/u/344167474?s=64&amp;v=4" width="40" height="40" alt="Slow Research" /></a>
-<h3>Slow Research · 慢科研</h3>
-<p>Sharing research tools, unfinished ideas, and a sense of humor.</p>
-<p>Read the <a href="https://github.com/Slow-Research/.github/blob/main/MANIFESTO.md">manifesto</a> and explore the projects. Make Slow Research Faster!</p>
-<a href="https://slow-research.github.io/">Website ↗</a> · <a href="https://github.com/Slow-Research">GitHub ↗</a>
-</td>
-</tr>
-</table>
+**[Indeed Intelligence](https://github.com/indeed-lab)** — Algorithms, optimization, and AI safety in practice. [Website ↗](https://indeed-lab.github.io/)<br>
+**[Slow Research](https://github.com/Slow-Research)** — Research tools, unfinished ideas, and a sense of humor. [Website ↗](https://slow-research.github.io/)
 
 ---
 
