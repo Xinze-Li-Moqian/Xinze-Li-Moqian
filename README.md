@@ -23,7 +23,17 @@ Want to work together? Reach me on [Slack](https://join.slack.com/t/moqian/share
 
 ---
 
-<sub>02 / COMMUNITIES</sub>
+<sub>02 / LEARNING & BUILDING</sub>
+
+## Learning & Building.
+
+**[UDL — Deep Learning ↗](https://github.com/Xinze-Li-Moqian/UDL)**
+
+I'm working through *Understanding Deep Learning*, connecting the theory with Lean 4 definitions, selected formal proofs, and runnable examples. Learning by building, in the open.
+
+---
+
+<sub>03 / COMMUNITIES</sub>
 
 ## Communities I help grow.
 
@@ -33,45 +43,6 @@ Want to work together? Reach me on [Slack](https://join.slack.com/t/moqian/share
 | <img src="https://avatars.githubusercontent.com/u/331409699?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="Varifold logo" /> &ensp; [Varifold](https://varifold-lab.github.io/) | AI safety · Decentralized intelligence |
 | <img src="https://avatars.githubusercontent.com/u/340565723?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="Indeed Intelligence logo" /> &ensp; [Indeed Intelligence](https://indeed-lab.github.io/) | Algorithms · Optimization · AI safety |
 | <img src="https://avatars.githubusercontent.com/u/344167474?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="Slow Research logo" /> &ensp; [Slow Research](https://slow-research.github.io/) | Research tools · Unfinished ideas · Humor |
-
----
-
-<sub>03 / SELECTED WORK</sub>
-
-## Build & research.
-
-### Finding your way through mathematics
-
-**Astrolabe** turns a Lean project into an explorable 3D dependency graph. Follow a theorem's connections, browse namespaces, and see how a formalization fits together. I worked on the early prototype with [Alejandro Radisic](https://github.com/alerad).
-
-<details>
-<summary>View the Astrolabe interface</summary>
-
-<a href="https://github.com/Xinze-Li-Moqian/Astrolabe"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Astrolabe/main/docs/images/screenshot-1.jpg" width="480" alt="Astrolabe prototype: an interactive 3D graph of dependencies in a Lean project" /></a>
-
-</details>
-
-[Early prototype ↗](https://github.com/Xinze-Li-Moqian/Astrolabe) · [Explore on CloK ↗](https://www.clok.tech/astrolabe)
-
-For a broader view, **[awesome-ai4math](https://github.com/Xinze-Li-Moqian/awesome-ai4math)** collects tools, research, learning resources, and communities around AI for mathematics. It's a place to find useful work and people to learn from.
-
-### Working from models to proofs
-
-I'm interested in what happens when a mathematical model becomes something we can inspect, run, and check. These projects explore different parts of that process.
-
-| Project | Question | Work to explore |
-| --- | --- | --- |
-| [OpenGA](https://github.com/CloK-Lab/OpenGA) | How can we express geometric analysis in Lean? | Foundations for geometric analysis and geometric measure theory. |
-| [LeanMFG](https://github.com/Varifold-Lab/LeanMFG) | How can we formalize systems with many interacting agents? | Mean field game models, theory, and algorithms in Lean. |
-| [ν-DSI](https://github.com/Varifold-Lab/vdsi) | How can participants coordinate in a decentralized system? | Lean formal models and executable coordination prototypes. |
-
-### Leaving room for an experiment
-
-**[indeed-bot](https://github.com/indeed-lab/indeed-bot)** detects your language, picks a short agreement, and agrees. Its reply selector is verified in Lean; the language detector and interface are separate from that proof.
-
-> **Zero Reasoning. Infinite Agreement.**
-
-[Try a conversation ↗](https://indeed-lab.github.io/#indeed-bot) · [Read the code and proofs ↗](https://github.com/indeed-lab/indeed-bot)
 
 ---
 

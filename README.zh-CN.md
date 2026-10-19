@@ -23,7 +23,17 @@
 
 ---
 
-<sub>02 / 社区</sub>
+<sub>02 / 边学边做</sub>
+
+## Learning & Building.
+
+**[UDL — 深度学习 ↗](https://github.com/Xinze-Li-Moqian/UDL)**
+
+我以《Understanding Deep Learning》为主线学习深度学习，把理论整理为 Lean 4 定义、部分结果的形式化证明和可运行示例。边学边做，持续开源。
+
+---
+
+<sub>03 / 社区</sub>
 
 ## 帮助社区成长。
 
@@ -33,45 +43,6 @@
 | <img src="https://avatars.githubusercontent.com/u/331409699?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="Varifold 标志" /> &ensp; [Varifold](https://varifold-lab.github.io/) | AI 安全 · 去中心化智能 |
 | <img src="https://avatars.githubusercontent.com/u/340565723?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="Indeed Intelligence 标志" /> &ensp; [Indeed Intelligence](https://indeed-lab.github.io/) | 算法 · 优化 · AI 安全 |
 | <img src="https://avatars.githubusercontent.com/u/344167474?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="Slow Research 标志" /> &ensp; [Slow Research](https://slow-research.github.io/) | 科研工具 · 未完成的想法 · 幽默 |
-
----
-
-<sub>03 / 项目</sub>
-
-## 项目与研究。
-
-### 在数学知识中找到方向
-
-**Astrolabe** 把 Lean 项目变成可以探索的三维依赖图。沿着定理的联系前进，浏览命名空间，看看一份形式化工作是怎样组织起来的。我与 [Alejandro Radisic](https://github.com/alerad) 一起参与了早期原型的开发。
-
-<details>
-<summary>查看 Astrolabe 界面预览</summary>
-
-<a href="https://github.com/Xinze-Li-Moqian/Astrolabe"><img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Astrolabe/main/docs/images/screenshot-1.jpg" width="480" alt="Astrolabe 早期原型：用可交互的三维图展示 Lean 项目中的依赖关系" /></a>
-
-</details>
-
-[早期原型 ↗](https://github.com/Xinze-Li-Moqian/Astrolabe) · [在 CloK 中探索 ↗](https://www.clok.tech/astrolabe)
-
-**[awesome-ai4math](https://github.com/Xinze-Li-Moqian/awesome-ai4math)** 则提供更宽的视角：整理 AI for Mathematics 领域的工具、研究、学习资源与社区，帮助大家找到有用的工作和值得交流的人。
-
-### 从模型走向证明
-
-我感兴趣的是，怎样让一个数学模型变成可以检查、运行和验证的东西。下面几个项目分别探索其中的一部分。
-
-| 项目 | 关心的问题 | 可以探索的工作 |
-| --- | --- | --- |
-| [OpenGA](https://github.com/CloK-Lab/OpenGA) | 怎样用 Lean 表达几何分析？ | 几何分析与几何测度论的形式化基础。 |
-| [LeanMFG](https://github.com/Varifold-Lab/LeanMFG) | 怎样形式化描述大量主体的相互作用？ | Lean 中的平均场博弈模型、理论与算法。 |
-| [ν-DSI](https://github.com/Varifold-Lab/vdsi) | 去中心化系统中的参与者怎样协作？ | Lean 形式化模型与可执行的协作原型。 |
-
-### 也留一点空间做实验
-
-**[indeed-bot](https://github.com/indeed-lab/indeed-bot)** 识别你使用的语言，随机选一句简短的赞同，然后表示赞同。回复选择器经过 Lean 验证；语言识别和界面不在这份证明的范围内。
-
-> **Zero Reasoning. Infinite Agreement.**
-
-[和它聊聊 ↗](https://indeed-lab.github.io/#indeed-bot) · [看看代码与证明 ↗](https://github.com/indeed-lab/indeed-bot)
 
 ---
 
