@@ -18,15 +18,14 @@ Want to work together? Reach me on Slack, [X](https://x.com/xinzelimoqian), [Lin
 
 ## Explore.
 
-- **Mathematics & AI** — tools that help us discover, understand, and work with mathematics.
-- **Formal verification** — Lean, checkable proofs, and algorithms we can rely on in practice.
-- **Algorithms, optimization & AI safety** — questions grounded in real problems.
+- **Pure mathematics** — minimal surfaces and geometric analysis.
+- **Formal verification & Lean 4** — Lean 4 is the language I use most. I'm trying to build and express everything I can in it.
 
 ---
 
 <sub>02 / COMMUNITIES</sub>
 
-## Help communities grow.
+## Communities I help build.
 
 **[CloK](https://github.com/CloK-Lab)** — Tools for exploring mathematical knowledge. [Website ↗](https://www.clok.tech/)<br>
 **[Varifold](https://github.com/Varifold-Lab)** — Open research in AI safety and decentralized intelligence. [Website ↗](https://varifold-lab.github.io/)
