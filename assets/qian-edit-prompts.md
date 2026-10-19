@@ -1,6 +1,14 @@
 # Name and hexagram edit prompts
 
-Method: built-in imagegen. Initial identity asset: [moqian-qian-hero.png](moqian-qian-hero.png). Current aligned asset: [moqian-qian-hero-aligned.png](moqian-qian-hero-aligned.png).
+Method: built-in imagegen. Initial identity asset: [moqian-qian-hero.png](moqian-qian-hero.png). Current asset: [moqian-studio-hero.png](moqian-studio-hero.png), edited from [moqian-qian-hero-aligned.png](moqian-qian-hero-aligned.png).
+
+## Studio welcome and blue yang line
+
+Final asset: [moqian-studio-hero.png](moqian-studio-hero.png), 2172 × 724. Method: built-in imagegen, editing the aligned banner. Checked the exact welcome text, traditional name, six-row pattern, blue fourth row, preserved subtitles, and alignment.
+
+```text
+Use case: precise-object-edit and text-localization. Edit target: the provided existing wide GitHub profile banner. Make exactly two small edits while preserving the rest of the image and the 3:1 landscape composition. (1) In the six-row Qian hexagram immediately left of the name, recolor ONLY the single continuous horizontal bar — the FOURTH ROW FROM THE TOP, equivalently THIRD FROM THE BOTTOM — from gold to a harmonious muted slate/ice blue, approximately #7FAAC4. Keep all five broken yin rows gold, with their two segments per row unchanged. Preserve the exact six-row pattern TOP TO BOTTOM: broken, broken, broken, solid, broken, broken. Do not add, remove, resize, or shift any row. Keep the emblem vertically centered on the Chinese characters exactly as in the input. (2) Replace the small spaced uppercase overline 'RESEARCH / OPEN SOURCE / COMMUNITY' with the exact text 'WELCOME TO MOQIAN-STUDIO', on one line, at the same location, with the same small pale-blue uppercase typography and letter spacing. Preserve the main name exactly '墨謙 · Moqian' (traditional Chinese 謙), all of its original typography and alignment. Preserve the lower text exactly 'Build things.' and 'Help communities grow.' Preserve the thin rule, navy background, entire gold-and-blue tree and roots, lighting, crop, spacing and every other visual detail. Do not create a redesign or a mockup. Return the complete edited banner, same 3:1 aspect ratio.
+```
 
 ## Vertical alignment revision
 

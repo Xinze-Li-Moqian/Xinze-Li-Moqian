@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/moqian-qian-hero-aligned.png" width="100%" alt="墨謙 · Moqian，名字旁配六爻地山謙卦 — Build things. Help communities grow." />
+<img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/moqian-studio-hero.png" width="100%" alt="欢迎来到 Moqian-Studio — 墨謙 · Moqian，名字旁的地山謙卦以蓝色标示唯一的阳爻。Build things. Help communities grow." />
 
 # [墨謙 · Moqian](https://lixinze.xyz/)
 
