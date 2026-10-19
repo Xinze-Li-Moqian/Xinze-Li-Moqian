@@ -5,13 +5,12 @@
 **English** · [简体中文](https://github.com/Xinze-Li-Moqian/Xinze-Li-Moqian/blob/main/README.zh-CN.md)<br>
 [Website ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian) · [Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434)
 
-I'm **墨謙 · Moqian (Xinze Li)**, a PhD student at the University of Toronto. My research interests include geometric analysis, minimal surfaces, AI safety, and formal verification. Lean 4 is the language I use most, and I'm exploring how to build verifiable systems.
+I'm **墨謙 · Moqian (Xinze Li)**, a PhD student at the University of Toronto.
 
-**Learning while building** is how I've always worked. To understand theory, I need to implement ideas and see what holds up and what I haven't thought through. I share what I'm building here from the very beginning: **Open source since day one**, including unfinished attempts and unresolved questions. I want to stay honest with myself, especially about what I don't yet understand.
+- **I learn by building.**
+- **I help build and grow communities.**
 
-I also see myself as a **community grower**. I help people from different backgrounds build new communities. I want students to develop work and resources of their own, find people to collaborate with, and have opportunities to put their ideas into practice.
-
-I enjoy talking with futurists, founders, and investors to learn about the emerging technology industries they are building. I'm also interested in **crypto and fintech**. I want to understand the concrete problems they are tackling and how new research and technology become real products and ventures.
+Want to work together? Reach me on Slack, [X](https://x.com/xinzelimoqian), [LinkedIn](https://www.linkedin.com/in/lixinze/), or by email. **Slack is my personal studio**, where I share updates across my work.
 
 ---
 
