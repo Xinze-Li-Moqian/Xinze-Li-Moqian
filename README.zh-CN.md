@@ -3,7 +3,7 @@
 # 墨謙 · Moqian
 
 [English](https://github.com/Xinze-Li-Moqian/Xinze-Li-Moqian/blob/main/README.md) · **简体中文**<br>
-[个人网站 ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian) · [Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434)
+[个人网站 ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
 
 我是**墨謙 · Moqian（Xinze Li）**，多伦多大学博士生。
 
@@ -62,4 +62,4 @@
 
 欢迎带着一个项目、一个问题，或一个社区的想法来聊。我尤其关心怎么让第一次参与变得容易：一份更清楚的解释、一个好用的工具，或一个能让大家一起动手的问题。
 
-[Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
+[加入我的 Slack studio ↗](https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)

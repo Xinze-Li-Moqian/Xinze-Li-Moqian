@@ -3,7 +3,7 @@
 # 墨謙 · Moqian
 
 **English** · [简体中文](https://github.com/Xinze-Li-Moqian/Xinze-Li-Moqian/blob/main/README.zh-CN.md)<br>
-[Website ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian) · [Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434)
+[Website ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
 
 I'm **墨謙 · Moqian (Xinze Li)**, a PhD student at the University of Toronto.
 
@@ -62,4 +62,4 @@ What are you building, and where could another pair of hands help?
 
 Send me a project, a question, or an idea for a community. I'm especially interested in making a first contribution easier: a clearer explanation, a useful tool, or a problem people can work on together.
 
-[Talk on Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
+[Join my Slack studio ↗](https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian)
