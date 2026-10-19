@@ -27,13 +27,12 @@ Want to work together? Reach me on Slack, [X](https://x.com/xinzelimoqian), [Lin
 
 ## Communities I help grow.
 
-Each community has its own focus:
-
-<img src="https://avatars.githubusercontent.com/u/259413392?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="CloK logo" /> **[CloK](https://github.com/CloK-Lab)** — Mathematical knowledge · Exploration tools. [↗](https://www.clok.tech/)<br>
-<img src="https://avatars.githubusercontent.com/u/331409699?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="Varifold logo" /> **[Varifold](https://github.com/Varifold-Lab)** — AI safety · Decentralized intelligence. [↗](https://varifold-lab.github.io/)
-
-<img src="https://avatars.githubusercontent.com/u/340565723?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="Indeed Intelligence logo" /> **[Indeed Intelligence](https://github.com/indeed-lab)** — Algorithms · Optimization · AI safety in practice. [↗](https://indeed-lab.github.io/)<br>
-<img src="https://avatars.githubusercontent.com/u/344167474?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="Slow Research logo" /> **[Slow Research](https://github.com/Slow-Research)** — Research tools · Unfinished ideas · Humor. [↗](https://slow-research.github.io/)
+| Community | Focus |
+| :--- | :--- |
+| <img src="https://avatars.githubusercontent.com/u/259413392?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="CloK logo" /> &ensp; [CloK](https://www.clok.tech/) | Mathematical knowledge · Exploration tools |
+| <img src="https://avatars.githubusercontent.com/u/331409699?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="Varifold logo" /> &ensp; [Varifold](https://varifold-lab.github.io/) | AI safety · Decentralized intelligence |
+| <img src="https://avatars.githubusercontent.com/u/340565723?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="Indeed Intelligence logo" /> &ensp; [Indeed Intelligence](https://indeed-lab.github.io/) | Algorithms · Optimization · AI safety |
+| <img src="https://avatars.githubusercontent.com/u/344167474?v=4&amp;s=48" width="20" height="20" align="absmiddle" alt="Slow Research logo" /> &ensp; [Slow Research](https://slow-research.github.io/) | Research tools · Unfinished ideas · Humor |
 
 ---
 
