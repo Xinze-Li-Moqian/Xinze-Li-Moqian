@@ -10,7 +10,7 @@
 - **边做边学：我在动手构建的过程中学习。**
 - **帮助社区建立与成长，让大家一起做事。**
 
-想一起合作，欢迎通过 Slack、[X](https://x.com/xinzelimoqian)、[LinkedIn](https://www.linkedin.com/in/lixinze/) 或邮箱联系我。**Slack 是我的个人 studio**，我会在里面更新不同方向的工作。
+想一起合作，欢迎通过 [Slack](https://join.slack.com/t/moqian/shared_invite/zt-4do3ky6f6-WRFbRrBcoj4gAl4UbaA7ug)、[X](https://x.com/xinzelimoqian)、[LinkedIn](https://www.linkedin.com/in/lixinze/) 或邮箱联系我。**Slack 是我的个人 studio**，我会在里面更新不同方向的工作。
 
 ---
 
