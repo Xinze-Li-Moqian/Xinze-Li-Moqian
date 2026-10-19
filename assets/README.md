@@ -4,13 +4,13 @@
 
 The profile draws on the visual language of [CloK](https://www.clok.tech/): a nearly black navy ground, pale blue typography, fine gold botanical forms, and generous space between sections. The tree connects the profile's existing theme of growing open-source communities to this visual direction.
 
-- Current banner: [`moqian-qian-hero.png`](moqian-qian-hero.png), 2172 × 724 pixels; title **墨謙 · Moqian**.
+- Current banner: [`moqian-qian-hero-aligned.png`](moqian-qian-hero-aligned.png), 2172 × 724 pixels; title **墨謙 · Moqian**.
 - Palette: navy `#090E16`, pale blue `#E3F2FC`, restrained gold and cyan accents.
 - Method: generated with the built-in imagegen tool. The artwork is original; CloK's site illustration was not copied into this asset.
 - The README body uses native headings, text, and links so it remains searchable, selectable, and compatible with GitHub's light and dark themes.
 - Communities appear as two compact pairs of linked descriptions. The Astrolabe preview is the actual screenshot published in the early prototype's repository, linked at its source.
 - The closing contribution calendar is a data visualization in the same navy, ice-blue, and gold palette. Its values come from GitHub's public calendar, not generated artwork. See [the data and update notes](../docs/contributions.md).
-- Earlier banners: [`moqian-clok-hero.png`](moqian-clok-hero.png) and [`grow.svg`](grow.svg), retained as earlier designs.
+- Earlier banners: [`moqian-qian-hero.png`](moqian-qian-hero.png), [`moqian-clok-hero.png`](moqian-clok-hero.png), and [`grow.svg`](grow.svg), retained as earlier designs.
 
 ## Name and hexagram
 
@@ -21,6 +21,8 @@ The six rows are, from top to bottom: **broken, broken, broken, solid, broken, b
 The exact geometry used as the correction reference is preserved in [`qian-hexagram-reference.svg`](qian-hexagram-reference.svg). The final raster was visually checked for six rows and eleven gold bar segments.
 
 The built-in imagegen edit instructions are recorded in [qian-edit-prompts.md](qian-edit-prompts.md).
+
+The aligned revision makes the emblem more compact and centers it on the Chinese name. In the final 2172 × 724 raster, the gold rows span y=218–333 and the Chinese characters span y=215–336: both have a vertical center of y=275.5. The six rows and fourth-row solid line were checked from the raster pixels. The layout reference is [qian-alignment-reference.svg](qian-alignment-reference.svg); the final banner was edited with the built-in imagegen tool.
 
 ## Generation prompt
 

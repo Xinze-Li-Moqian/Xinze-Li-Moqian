@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <rect width="1200" height="240" fill="#090e16"/>
+  <g fill="#d5b86f" transform="translate(0 5)">
+    <path d="M40 70h32v10H40z M96 70h32v10H96z M40 90h32v10H40z M96 90h32v10H96z M40 110h32v10H40z M96 110h32v10H96z M40 130h88v10H40z M40 150h32v10H40z M96 150h32v10H96z M40 170h32v10H40z M96 170h32v10H96z"/>
+  </g>
+  <text x="176" y="174" font-family="PingFang TC, sans-serif" font-size="120" font-weight="600" fill="#e3f2fc">墨謙 · Moqian</text>
+</svg>

@@ -1,6 +1,23 @@
 # Name and hexagram edit prompts
 
-Method: built-in imagegen; two sequential edits of the existing banner. Final asset: [moqian-qian-hero.png](moqian-qian-hero.png).
+Method: built-in imagegen. Initial identity asset: [moqian-qian-hero.png](moqian-qian-hero.png). Current aligned asset: [moqian-qian-hero-aligned.png](moqian-qian-hero-aligned.png).
+
+## Vertical alignment revision
+
+Final asset: [moqian-qian-hero-aligned.png](moqian-qian-hero-aligned.png). Method: built-in imagegen. The selected edit uses the original banner and [qian-alignment-reference.svg](qian-alignment-reference.svg), followed by a correction restoring the top broken row. Earlier trial outputs were not published.
+
+### Compact emblem with layout reference
+
+```text
+Image 1 is the existing full banner to edit. Image 2 is a VECTOR LAYOUT REFERENCE illustrating the requested alignment of the small gold six-row symbol with the Chinese name. Replace ONLY the tall gold symbol in image 1 with a NEW SMALLER COMPACT six-row gold symbol. Use image 2 to match the vertical alignment: the symbol and the Chinese characters have the same vertical center, and the symbol fits within the Chinese characters' top and bottom edges. The current symbol in image 1 is oversized and bottom-heavy, so noticeably reduce the symbol's height by about ONE QUARTER and move its center upward; do not leave it at its old size or position. Its bottom row must end ABOVE the Latin q descender and at or slightly above the Chinese baseline. Preserve the original Chinese typography and text from image 1, not the reference font. The new icon must have exactly six rows like image 2, from top to bottom: broken, broken, broken, solid, broken, broken; exactly five yin rows and one yang row. Preserve horizontal placement beside the name, gold palette and overall visual style. Preserve all other content from image 1: exact main name 墨謙 · Moqian, top small text, subtitles, horizontal rule, dark background, entire tree illustration and dimensions. Output the full original 3:1 banner with the visibly smaller, vertically centered gold emblem.
+```
+
+### Restore the top row
+
+```text
+Repair ONLY the tiny gold symbol left of 墨謙 in the supplied banner. It currently has FIVE rows because one broken row was accidentally omitted at the TOP. Add precisely ONE NEW BROKEN GOLD ROW ABOVE the current top row, with the same bar thickness, gold color, width and centered gap. Keep the current FIVE rows exactly in their current positions. The new top row should be one normal row-step above the current top row, so it begins at roughly the same height as the top of the Chinese characters. Do not append any row at the bottom! Add the missing broken row at the TOP only. The resulting six rows top-to-bottom MUST be: broken, broken, broken, solid, broken, broken. The ONLY solid row is now the FOURTH from the top. Exactly six rows with eleven gold bar segments. Keep every other pixel and element of this banner as before: traditional name 墨謙 · Moqian, all other text, exact tree illustration, colors, horizontal rule, full 2172x724 canvas. Do not resize or move any of the existing five gold rows. This edit solely inserts two short gold rectangles ABOVE the existing five-row icon to restore the correct six-row hexagram.
+```
+
 
 ## Identity edit
 
