@@ -1,6 +1,21 @@
 # Name and hexagram edit prompts
 
-Method: built-in imagegen. Initial identity asset: [moqian-qian-hero.png](moqian-qian-hero.png). Current asset: [moqian-studio-hero.png](moqian-studio-hero.png), edited from [moqian-qian-hero-aligned.png](moqian-qian-hero-aligned.png).
+Method: built-in imagegen. Initial identity asset: [moqian-qian-hero.png](moqian-qian-hero.png). Current asset: [moqian-studio-welcome.png](moqian-studio-welcome.png), edited from [moqian-studio-hero.png](moqian-studio-hero.png).
+
+## Welcome as the main headline
+
+Final asset: [moqian-studio-welcome.png](moqian-studio-welcome.png), 2172 × 724. Method: built-in imagegen. Checked headline hierarchy, exact subtitle spelling, traditional name, six-row hexagram, blue fourth row, and text readability.
+
+```text
+Use case: text-localization, typography hierarchy edit. Edit the supplied finished 3:1 Moqian GitHub profile banner. Keep the dark navy background and the entire intricate gold-and-blue tree and roots on the right, its position, crop and artistic detail. Redesign ONLY the typography on the left so the welcoming phrase becomes the dominant large headline and the activity words become a quiet small subtitle.
+Exact text and hierarchy:
+1. At upper left, a modest identity signature '墨謙 · Moqian' in traditional Chinese and title-case Latin. Move the existing Qian hexagram with the name into this small signature row, scaled together and vertically centered. It is a small secondary identifier, not the hero headline.
+2. Under that signature, the largest bold pale ice-blue headline in two lines: 'Welcome to' then 'Moqian-Studio'. The word Welcome must be large, clearly dominant and welcoming. The two headline lines should have similar large scale, fit fully in the left area without touching the tree, and be readable at GitHub banner size.
+3. Beneath the headline, a SINGLE smaller pale-blue subtitle line exactly: 'Building · Learning · Growing Communities'. Correct spelling Learning. Subtitle roughly one third of headline letter height. Keep generous whitespace.
+Remove the previous tiny all-caps welcome overline and the old 'Build things.' / 'Help communities grow.' sentences; do not duplicate any text. Retain a restrained thin horizontal rule below the subtitle.
+Critical hexagram invariant: exactly SIX horizontal levels TOP TO BOTTOM: broken, broken, broken, SOLID, broken, broken. The fourth row from top is the ONLY continuous bar and is muted harmonious blue approximately #7FAAC4. All FIVE broken yin rows stay gold, two equal short segments with centered gap. Eleven segments total. Preserve this pattern when scaling; do not drop or add rows.
+Keep the name exactly 墨謙 · Moqian, with traditional 謙, not simplified 谦. Maintain a refined, restrained editorial style and the existing near-black navy, ice-blue and gold palette. No new illustration, borders, watermark or UI. Return the complete finished 3:1 banner.
+```
 
 ## Studio welcome and blue yang line
 

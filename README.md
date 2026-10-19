@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/moqian-studio-hero.png" width="100%" alt="Welcome to Moqian-Studio — 墨謙 · Moqian, with the 謙 hexagram and its single yang line in blue. Build things. Help communities grow." />
+<img src="https://raw.githubusercontent.com/Xinze-Li-Moqian/Xinze-Li-Moqian/main/assets/moqian-studio-welcome.png" width="100%" alt="Welcome to Moqian-Studio. Building · Learning · Growing Communities. 墨謙 · Moqian, with the 謙 hexagram and its single yang line in blue." />
 
 # [墨謙 · Moqian](https://lixinze.xyz/)
 
