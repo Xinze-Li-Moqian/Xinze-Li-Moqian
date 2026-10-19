@@ -25,13 +25,15 @@
 
 <sub>02 / 社区</sub>
 
-## 我帮助构建的社区。
+## 帮助社区成长。
 
-**[CloK](https://github.com/CloK-Lab)** — 让数学知识的结构与联系更容易被探索。[官网 ↗](https://www.clok.tech/)<br>
-**[Varifold](https://github.com/Varifold-Lab)** — 围绕 AI 安全与去中心化智能开展开放研究。[官网 ↗](https://varifold-lab.github.io/)
+我目前帮助以下社区成长，每个社区都有自己的主题：
 
-**[Indeed Intelligence · 确实智能](https://github.com/indeed-lab)** — 从实际问题出发，探索算法、优化与 AI 安全。[官网 ↗](https://indeed-lab.github.io/)<br>
-**[Slow Research · 慢科研](https://github.com/Slow-Research)** — 分享科研工具、未完成的想法，也保留一点幽默。[官网 ↗](https://slow-research.github.io/)
+<img src="https://avatars.githubusercontent.com/u/259413392?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="CloK 标志" /> **[CloK](https://github.com/CloK-Lab)** — 数学知识 · 探索工具。[↗](https://www.clok.tech/)<br>
+<img src="https://avatars.githubusercontent.com/u/331409699?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="Varifold 标志" /> **[Varifold](https://github.com/Varifold-Lab)** — AI 安全 · 去中心化智能。[↗](https://varifold-lab.github.io/)
+
+<img src="https://avatars.githubusercontent.com/u/340565723?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="Indeed Intelligence 标志" /> **[Indeed Intelligence · 确实智能](https://github.com/indeed-lab)** — 算法 · 优化 · AI 安全实践。[↗](https://indeed-lab.github.io/)<br>
+<img src="https://avatars.githubusercontent.com/u/344167474?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="Slow Research 标志" /> **[Slow Research · 慢科研](https://github.com/Slow-Research)** — 科研工具 · 未完成的想法 · 幽默。[↗](https://slow-research.github.io/)
 
 ---
 

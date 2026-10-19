@@ -25,13 +25,15 @@ Want to work together? Reach me on Slack, [X](https://x.com/xinzelimoqian), [Lin
 
 <sub>02 / COMMUNITIES</sub>
 
-## Communities I help build.
+## Communities I help grow.
 
-**[CloK](https://github.com/CloK-Lab)** — Tools for exploring mathematical knowledge. [Website ↗](https://www.clok.tech/)<br>
-**[Varifold](https://github.com/Varifold-Lab)** — Open research in AI safety and decentralized intelligence. [Website ↗](https://varifold-lab.github.io/)
+Each community has its own focus:
 
-**[Indeed Intelligence](https://github.com/indeed-lab)** — Algorithms, optimization, and AI safety in practice. [Website ↗](https://indeed-lab.github.io/)<br>
-**[Slow Research](https://github.com/Slow-Research)** — Research tools, unfinished ideas, and a sense of humor. [Website ↗](https://slow-research.github.io/)
+<img src="https://avatars.githubusercontent.com/u/259413392?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="CloK logo" /> **[CloK](https://github.com/CloK-Lab)** — Mathematical knowledge · Exploration tools. [↗](https://www.clok.tech/)<br>
+<img src="https://avatars.githubusercontent.com/u/331409699?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="Varifold logo" /> **[Varifold](https://github.com/Varifold-Lab)** — AI safety · Decentralized intelligence. [↗](https://varifold-lab.github.io/)
+
+<img src="https://avatars.githubusercontent.com/u/340565723?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="Indeed Intelligence logo" /> **[Indeed Intelligence](https://github.com/indeed-lab)** — Algorithms · Optimization · AI safety in practice. [↗](https://indeed-lab.github.io/)<br>
+<img src="https://avatars.githubusercontent.com/u/344167474?v=4&amp;s=48" width="24" height="24" align="absmiddle" alt="Slow Research logo" /> **[Slow Research](https://github.com/Slow-Research)** — Research tools · Unfinished ideas · Humor. [↗](https://slow-research.github.io/)
 
 ---
 

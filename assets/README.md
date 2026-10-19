@@ -8,7 +8,7 @@ The profile draws on the visual language of [CloK](https://www.clok.tech/): a ne
 - Palette: navy `#090E16`, pale blue `#E3F2FC`, restrained gold and cyan accents.
 - Method: generated with the built-in imagegen tool. The artwork is original; CloK's site illustration was not copied into this asset.
 - The README body uses native headings, text, and links so it remains searchable, selectable, and compatible with GitHub's light and dark themes.
-- Communities appear as two compact pairs of linked descriptions. The Astrolabe preview is the actual screenshot published in the early prototype's repository, linked at its source.
+- Communities appear as two compact pairs of linked names and topic keywords, each with a 24 px logo from its current public GitHub organization avatar. The logos remain linked to their public source so organization avatar changes carry through. The Astrolabe preview is the actual screenshot published in the early prototype's repository, linked at its source.
 - The closing contribution calendar is a data visualization in the same navy, ice-blue, and gold palette. Its values come from GitHub's public calendar, not generated artwork. See [the data and update notes](../docs/contributions.md).
 - Earlier banners: [`moqian-qian-hero.png`](moqian-qian-hero.png), [`moqian-clok-hero.png`](moqian-clok-hero.png), and [`grow.svg`](grow.svg), retained as earlier designs.
 
