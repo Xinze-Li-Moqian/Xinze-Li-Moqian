@@ -5,13 +5,13 @@
 [English](https://github.com/Xinze-Li-Moqian/Xinze-Li-Moqian/blob/main/README.md) · **简体中文**<br>
 [个人网站 ↗](https://lixinze.xyz/) · [LinkedIn ↗](https://www.linkedin.com/in/lixinze/) · [X ↗](https://x.com/xinzelimoqian) · [Lean Zulip ↗](https://leanprover.zulipchat.com/#user/982434)
 
-我是 **Xinze Li（墨謙 · Moqian）**，目前是**多伦多大学的博士生**。我的研究兴趣包括几何分析、极小曲面、AI 安全与形式化验证。Lean 4 是我使用最多的语言，我正在尝试构建可验证的系统。
+我是**墨謙 · Moqian（Xinze Li）**，目前是多伦多大学的博士生。我的研究兴趣包括几何分析、极小曲面、AI 安全与形式化验证。Lean 4 是我使用最多的语言，我正在尝试构建可验证的系统。
 
-**Learning while building，边做边学**，是我的工作方式。对我来说，理解理论需要亲手把它用起来。我会从一开始就在这里开源正在做的工作：**Open source since day one**。这也包括尚未完成的尝试、还没回答的问题，以及对自己究竟理解了什么、还没理解什么保持诚实。
+**Learning while building，边做边学**，是我一直以来的工作方式。对我来说，理解理论需要亲自动手，把想法实现出来，看看哪些地方成立，哪些地方还没想清楚。我会从第一天起就在这里开源正在构建的工作——**Open source since day one**，包括尚未完成的尝试和没有解决的问题。我希望始终对自己诚实，尤其是对自己还没有理解的部分。
 
-我也把自己看作一个 **community grower，帮助社区成长的人**。我帮助不同背景的人构建新的社区，也希望学生能积累属于自己的成果，在此基础上继续学习和发展。
+我也把自己看作一个 **community grower，帮助社区成长的人**。我帮助不同背景的人构建新的社区，希望学生能积累属于自己的成果与资源，找到一起做事的人，并有机会把自己的想法做出来。
 
-我喜欢和未来主义者、创始人及投资者聊天，了解新兴科创产业、金融与 fintech。这些交流帮助我理解大家具体在做什么，以及他们在实践中遇到的问题。
+我喜欢与未来主义者、创始人和投资者交流，了解他们正在建设的新兴科创产业，也关注**加密与金融科技（crypto & fintech）**。我想知道他们具体在解决什么问题，以及新的研究和技术如何成为真实的产品与事业。
 
 ---
 
