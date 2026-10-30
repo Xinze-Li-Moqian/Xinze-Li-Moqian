@@ -1,17 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title description">
-<title id="title">Xinze-Li-Moqian: 2,067 GitHub contributions, 2025-10-30 to 2026-10-29</title>
+<title id="title">Xinze-Li-Moqian: 2,067 GitHub contributions, 2025-10-31 to 2026-10-30</title>
 <desc id="description">A 365-day isometric contribution calendar. Each tile is one day; column height uses the square root of its contribution count. Broken-out daily counts are available in each tile title.</desc>
-<metadata>{&quot;days&quot;: 365, &quot;end&quot;: &quot;2026-10-29&quot;, &quot;height_scale&quot;: &quot;square root of daily count&quot;, &quot;schema_version&quot;: 1, &quot;source&quot;: [&quot;https://github.com/users/Xinze-Li-Moqian/contributions?from=2025-01-01&amp;to=2025-12-31&quot;, &quot;https://github.com/users/Xinze-Li-Moqian/contributions?from=2026-01-01&amp;to=2026-12-31&quot;], &quot;start&quot;: &quot;2025-10-30&quot;, &quot;total&quot;: 2067, &quot;username&quot;: &quot;Xinze-Li-Moqian&quot;, &quot;window_timezone&quot;: &quot;America/Toronto&quot;}</metadata>
+<metadata>{&quot;days&quot;: 365, &quot;end&quot;: &quot;2026-10-30&quot;, &quot;height_scale&quot;: &quot;square root of daily count&quot;, &quot;schema_version&quot;: 1, &quot;source&quot;: [&quot;https://github.com/users/Xinze-Li-Moqian/contributions?from=2025-01-01&amp;to=2025-12-31&quot;, &quot;https://github.com/users/Xinze-Li-Moqian/contributions?from=2026-01-01&amp;to=2026-12-31&quot;], &quot;start&quot;: &quot;2025-10-31&quot;, &quot;total&quot;: 2067, &quot;username&quot;: &quot;Xinze-Li-Moqian&quot;, &quot;window_timezone&quot;: &quot;America/Toronto&quot;}</metadata>
 <rect width="1200" height="420" rx="16" fill="#090E16"/>
 <rect x="0.5" y="0.5" width="1199" height="419" rx="15.5" fill="none" stroke="#1C2B3D"/>
 <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
 <text x="48" y="36" fill="#C8AA6E" font-size="10" letter-spacing="2.2">ACTIVITY / GITHUB</text>
 <text x="48" y="76" fill="#D9E9F6" font-size="30" font-weight="600">A year of contributions.</text>
-<text x="48" y="105" fill="#8FA6BA" font-size="18">2025-10-30 — 2026-10-29 · Xinze-Li-Moqian</text>
+<text x="48" y="105" fill="#8FA6BA" font-size="18">2025-10-31 — 2026-10-30 · Xinze-Li-Moqian</text>
 <text x="1152" y="74" text-anchor="end" fill="#D4B674" font-size="44" font-weight="500">2,067</text>
 <text x="1152" y="105" text-anchor="end" fill="#8FA6BA" font-size="18">GitHub contributions</text>
 <path d="M48 125H1152" stroke="#253245"/>
-<polygon points="109.00,292.35 122.00,292.35 115.50,303.61 102.50,303.61" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
 <polygon points="100.00,307.94 113.00,307.94 106.50,319.20 93.50,319.20" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
 <polygon points="91.00,323.53 104.00,323.53 97.50,334.79 84.50,334.79" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
 <polygon points="163.00,230.00 176.00,230.00 169.50,241.26 156.50,241.26" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
@@ -376,6 +375,7 @@
 <polygon points="1063.00,261.18 1076.00,261.18 1069.50,272.44 1056.50,272.44" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
 <polygon points="1054.00,276.77 1067.00,276.77 1060.50,288.02 1047.50,288.02" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
 <polygon points="1045.00,292.35 1058.00,292.35 1051.50,303.61 1038.50,303.61" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
+<polygon points="1036.00,307.94 1049.00,307.94 1042.50,319.20 1029.50,319.20" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
 <g data-date="2025-11-02" data-count="0"><title>2025-11-02: 0 GitHub contributions</title>
 <polygon points="163.00,230.00 176.00,230.00 169.50,241.26 156.50,241.26" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
 </g>
@@ -393,9 +393,6 @@
 </g>
 <g data-date="2025-11-16" data-count="0"><title>2025-11-16: 0 GitHub contributions</title>
 <polygon points="199.00,230.00 212.00,230.00 205.50,241.26 192.50,241.26" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
-</g>
-<g data-date="2025-10-30" data-count="0"><title>2025-10-30: 0 GitHub contributions</title>
-<polygon points="109.00,292.35 122.00,292.35 115.50,303.61 102.50,303.61" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
 </g>
 <g data-date="2025-11-05" data-count="0"><title>2025-11-05: 0 GitHub contributions</title>
 <polygon points="136.00,276.77 149.00,276.77 142.50,288.02 129.50,288.02" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
@@ -1792,6 +1789,9 @@
 </g>
 <g data-date="2026-10-24" data-count="0"><title>2026-10-24: 0 GitHub contributions</title>
 <polygon points="1009.00,323.53 1022.00,323.53 1015.50,334.79 1002.50,334.79" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
+</g>
+<g data-date="2026-10-30" data-count="0"><title>2026-10-30: 0 GitHub contributions</title>
+<polygon points="1036.00,307.94 1049.00,307.94 1042.50,319.20 1029.50,319.20" fill="#142131" stroke="#24374B" stroke-width="0.65"/>
 </g>
 <text x="124.50" y="239.06" text-anchor="end" fill="#73899E" font-size="12" letter-spacing="1">SUN</text>
 <text x="97.50" y="285.83" text-anchor="end" fill="#73899E" font-size="12" letter-spacing="1">WED</text>
